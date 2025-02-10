@@ -4,9 +4,9 @@
 
 Enhance your Gmail experience by displaying sender domains and icons for quick identification and managing trusted senders. This userscript helps you quickly assess the legitimacy of emails directly within your Gmail inbox.
 
-<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator/main/IMG_0406.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
+<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator-userscript/main/IMG_0406.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
 
-<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator/main/IMG_0408.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
+<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator-userscript/main/IMG_0408.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
 
 ## Features
 
@@ -22,7 +22,7 @@ Enhance your Gmail experience by displaying sender domains and icons for quick i
 ## Installation
 
 1.  Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Safari, Edge).
-2.  Click the following link to install the script: [https://github.com/cwlum/gmail-trust-tindicator/raw/main/gmail-trust-indicator.user.js](https://github.com/cwlum/gmail-trust-tindicator/raw/main/gmail-trust-indicator.user.js)
+2.  Click the following link to install the script: [https://github.com/cwlum/gmail-trust-tindicator-userscript/raw/main/gmail-trust-indicator.user.js](https://github.com/cwlum/gmail-trust-tindicator-userscript/raw/main/gmail-trust-indicator.user.js)
 3.  Tampermonkey will prompt you to install the script. Click "Install".
 
 ## Usage
@@ -46,7 +46,7 @@ Once installed, the script will automatically enhance your Gmail inbox.
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please create an issue on the [issue tracker](https://github.com/cwlum/gmail-trust-tindicator/issues).
+Contributions are welcome! If you find a bug or have a feature request, please create an issue on the [issue tracker](https://github.com/cwlum/gmail-trust-tindicator-userscript/issues).
 
 If you would like to contribute code, please fork the repository and submit a pull request.
 
@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you find this script helpful, consider leaving a star on the [GitHub repository](https://github.com/cwlum/gmail-trust-tindicator).  It helps others discover the project!
+If you find this script helpful, consider leaving a star on the [GitHub repository](https://github.com/cwlum/gmail-trust-tindicator-userscript).  It helps others discover the project!
 
 ## Updates
 
