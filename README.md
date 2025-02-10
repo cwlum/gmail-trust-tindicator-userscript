@@ -1,5 +1,3 @@
-Okay, here's a README.md file you can use for your GitHub repository for the Gmail Trust Indicator. I've tried to make it clear, concise, and informative. I've also included badges and links to make it professional.
-
 # Gmail Trust Indicator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
