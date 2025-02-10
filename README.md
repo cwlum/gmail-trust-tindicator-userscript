@@ -6,9 +6,9 @@ Okay, here's a README.md file you can use for your GitHub repository for the Gma
 
 Enhance your Gmail experience by displaying sender domains and icons for quick identification and managing trusted senders. This userscript helps you quickly assess the legitimacy of emails directly within your Gmail inbox.
 
-<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator/main/screenshot_01.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
+<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator/main/IMG_0406.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
 
-<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator/main/screenshot_02.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
+<img src="https://raw.githubusercontent.com/cwlum/gmail-trust-tindicator/main/IMG_0408.jpeg" alt="Gmail Trust Indicator Screenshot" width="600">
 
 ## Features
 
