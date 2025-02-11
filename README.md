@@ -61,7 +61,3 @@ If you find this script helpful, consider leaving a star on the [GitHub reposito
 ## Updates
 
 * **v1.0 (Current)** 
-content_copy download
-Use code with caution.
-Markdown
-Key improvements and explanations:
